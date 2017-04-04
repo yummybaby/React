@@ -1,0 +1,1 @@
+console.log("index.js"),console.log("index_0.js"),console.log("test.js");
